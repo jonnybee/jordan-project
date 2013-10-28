@@ -1,10 +1,6 @@
-total 1264
 drwxr-xr-x+  69 jmccullough  staff    2346 Oct 28 11:18 .
 -rw-------    1 jmccullough  staff       3 Apr  1  2013 .CFUserTextEncoding
 -rw-r--r--@   1 jmccullough  staff   24580 Oct 27 09:55 .DS_Store
-drwx------    7 jmccullough  staff     238 Oct 28 11:05 .Trash
-drwxr-xr-x    4 jmccullough  staff     136 May  1 17:35 .adobe
-drwxr-xr-x    4 jmccullough  staff     136 Aug  8 17:41 .ascii.io
 drwxr-xr-x@   8 jmccullough  staff     272 Apr 23  2013 .atom
 -rw-------    1 jmccullough  staff    1885 Apr 11  2013 .bash_history
 drwxr-xr-x    4 jmccullough  staff     136 Aug  5 22:27 .bower
