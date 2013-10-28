@@ -1,3 +1,3 @@
 # GitHub Foundations
+## with Jordan & Markus
 
-Learning the basics for the morning.
